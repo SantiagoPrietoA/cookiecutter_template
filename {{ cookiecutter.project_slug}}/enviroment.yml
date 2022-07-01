@@ -7,7 +7,6 @@ channels:
   - defaults
 dependencies:
   - python={{ cookiecutter.python_version }}
-  - invoke
   - numpy
   - pandas
   - matplotlib
